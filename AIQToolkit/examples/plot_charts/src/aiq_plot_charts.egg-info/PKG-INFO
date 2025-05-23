@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: aiq_plot_charts
+Version: 1.2.0.dev6+ge342ffd
+Summary: Simple Plot Chart Agent example
+Keywords: ai,rag,agents
+Classifier: Programming Language :: Python
+Requires-Python: <3.13,>=3.11
+Requires-Dist: aiqtoolkit[langchain]~=1.2
+Requires-Dist: matplotlib==3.9.*
+Requires-Dist: seaborn==0.13.*

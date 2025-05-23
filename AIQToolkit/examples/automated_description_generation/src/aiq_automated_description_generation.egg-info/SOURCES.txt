@@ -1,0 +1,17 @@
+README.md
+configs
+pyproject.toml
+src/aiq_automated_description_generation/__init__.py
+src/aiq_automated_description_generation/register.py
+src/aiq_automated_description_generation.egg-info/PKG-INFO
+src/aiq_automated_description_generation.egg-info/SOURCES.txt
+src/aiq_automated_description_generation.egg-info/dependency_links.txt
+src/aiq_automated_description_generation.egg-info/entry_points.txt
+src/aiq_automated_description_generation.egg-info/requires.txt
+src/aiq_automated_description_generation.egg-info/top_level.txt
+src/aiq_automated_description_generation/configs/config.yml
+src/aiq_automated_description_generation/configs/config_no_auto.yml
+src/aiq_automated_description_generation/utils/__init__.py
+src/aiq_automated_description_generation/utils/description_generation.py
+src/aiq_automated_description_generation/utils/prompts.py
+src/aiq_automated_description_generation/utils/workflow_utils.py

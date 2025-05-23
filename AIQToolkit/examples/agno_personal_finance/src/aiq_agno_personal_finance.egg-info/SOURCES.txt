@@ -1,0 +1,15 @@
+.dockerignore
+Dockerfile
+README.md
+pyproject.toml
+src/aiq_agno_personal_finance/__init__.py
+src/aiq_agno_personal_finance/agno_personal_finance_function.py
+src/aiq_agno_personal_finance/register.py
+src/aiq_agno_personal_finance.egg-info/PKG-INFO
+src/aiq_agno_personal_finance.egg-info/SOURCES.txt
+src/aiq_agno_personal_finance.egg-info/dependency_links.txt
+src/aiq_agno_personal_finance.egg-info/entry_points.txt
+src/aiq_agno_personal_finance.egg-info/requires.txt
+src/aiq_agno_personal_finance.egg-info/top_level.txt
+src/aiq_agno_personal_finance/configs/config.yml
+tests/test_agno_personal_finance_workflow.py

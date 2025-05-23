@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: aiq_alert_triage_agent
+Version: 1.2.0.dev6+ge342ffd
+Summary: Alert Triage AIQ toolkit example
+Classifier: Programming Language :: Python
+Requires-Python: <3.13,>=3.11
+Requires-Dist: aiqtoolkit[langchain]~=1.2
+Requires-Dist: langchain-core
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: ansible-runner>=2.3.0
+Requires-Dist: langgraph>=0.0.10
+Requires-Dist: flask>=3.0.0

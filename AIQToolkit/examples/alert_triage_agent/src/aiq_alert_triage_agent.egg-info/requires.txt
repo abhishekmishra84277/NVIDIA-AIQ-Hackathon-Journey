@@ -1,0 +1,6 @@
+aiqtoolkit[langchain]~=1.2
+langchain-core
+pandas>=2.0.0
+ansible-runner>=2.3.0
+langgraph>=0.0.10
+flask>=3.0.0

@@ -1,0 +1,2 @@
+[aiq.components]
+aiq_plot_charts = aiq_plot_charts.register
